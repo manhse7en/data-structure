@@ -1,0 +1,5 @@
+1.Kiểm tra tính cân xứng của chuỗi
+	ví dụ "{([])}{}[]()"
+2.Tính giá trị biểu thức 
+	ví dụ "100 * ( 2 + 12 ) / 14"
+3.Cho 1 mảng số nguyên, và 1 mảng index. In ra mảng số có giá trị lớn hơn vị trí index, nếu không tìm thấy thì trả về -1
