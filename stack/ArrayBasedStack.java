@@ -13,7 +13,7 @@ public class ArrayBasedStack {
 	 * Size of Stack
 	 */
 	private int size = 0;
-
+	
 	/**
 	 * Constructor to create a new Stack
 	 * 
